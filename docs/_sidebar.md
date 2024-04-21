@@ -12,12 +12,11 @@
 
 - 基础配置
 
-  - [Deploy](deploy.md)
-  - [Helpers](helpers.md)
-  - [Vue compatibility](vue.md)
-  - [CDN](cdn.md)
-  - [Offline Mode (PWA)](pwa.md)
-  - [Embed Files](embed-files.md)
+  - [配置概述](2_1_CONFIGURATION_OVERVIEW.md)
+  - [权限](2_2_PERMISSIONS.md)
+  - [Webadmin网页管理界面](2_3_WEBADMIN)
+  - [世界](2_4_WORLDS.md)
+  - [插件](2_5_PLUGINS.md)
 
 - [Awesome docsify](awesome.md)
 - [Changelog](changelog.md)
