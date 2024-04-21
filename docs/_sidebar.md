@@ -1,21 +1,16 @@
-- Getting started
+- 介绍
 
-  - [Quick start](quickstart.md)
-  - [Writing more pages](more-pages.md)
-  - [Custom navbar](custom-navbar.md)
-  - [Cover page](cover.md)
+  - [介绍](0_1_Introduction.md)
+  - [什么是Cuberite](0_2_What_is_Cuberite.md)
+  - [历史](0_3_History.md)
 
-- Customization
+- 安装
 
-  - [Configuration](configuration.md)
-  - [Themes](themes.md)
-  - [List of Plugins](plugins.md)
-  - [Write a Plugin](write-a-plugin.md)
-  - [Markdown configuration](markdown.md)
-  - [Language highlighting](language-highlight.md)
-  - [Emoji](emoji.md)
+  - [预编译版本](1_1_Pre-Compiled_Builds.md)
+  - [自行编译Cuberite](1_2_Compiling_Cuberite_Yourself.md)
+  - [启动Cuberite](1_3_Running_Cuberite.md)
 
-- Guide
+- 基础配置
 
   - [Deploy](deploy.md)
   - [Helpers](helpers.md)
