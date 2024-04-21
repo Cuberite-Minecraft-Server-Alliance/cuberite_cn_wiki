@@ -37,3 +37,6 @@
   - [在没有插件的情况下连接世界](4_3_Linking-Worlds-Without-Plugins.md)
   - [使用插件连接世界](4_4_Linking-Worlds-with-a-Plugin.md)
   - [BungeeCord](4_5_BungeeCord.md)
+- 关于维基
+  - [特别鸣谢](wiki_thanks.md)
+  - [友情链接](wiki_friends.md)
