@@ -8,4 +8,4 @@
 - 更多问题解决方案
 
 [GitHub](https://github.com/Cuberite-Minecraft-Server-Alliance/cuberite_cn_wiki)
-[Getting Started](#)
+[下滑以开始](#)
