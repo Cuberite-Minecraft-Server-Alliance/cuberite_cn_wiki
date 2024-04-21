@@ -1,30 +1,7 @@
-## docsify
+## Cuberite中文维基
 
-> A magical documentation site generator.
+> Cuberite Minecraft服务器联盟搭建的Cuberite中文维基
 
-## What it is
+## 加入我们
 
-Docsify generates your documentation website on the fly. Unlike GitBook, it does not generate static html files. Instead, it smartly loads and parses your Markdown files and displays them as a website. To start using it, all you need to do is create an `index.html` and [deploy it on GitHub Pages](deploy.md).
-
-See the [Quick start](quickstart.md) guide for more details.
-
-## Features
-
-- No statically built html files
-- Simple and lightweight
-- Smart full-text search plugin
-- Multiple themes
-- Useful plugin API
-- Emoji support
-
-## Examples
-
-Check out the [Showcase](https://github.com/docsifyjs/awesome-docsify#showcase) to see docsify in use.
-
-## Donate
-
-Please consider donating if you think docsify is helpful to you or that my work is valuable. I am happy if you can help me [buy a cup of coffee](https://github.com/QingWei-Li/donate). :heart:
-
-## Community
-
-Users and the development team are usually in the [Discord server](https://discord.gg/3NwKFyR).
+你可以加入我们的 [QQ交流群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=z_4u8ARLTez262oxwIbo7zJDFHoXoYyz&authKey=AQDigCu1rtpgFgU%2FlHImM0%2FR%2BitBfwLZJqGdxnEgrWBppF8VGvTg%2BJf6bI3IsVuW&noverify=0&group_code=377054267).
