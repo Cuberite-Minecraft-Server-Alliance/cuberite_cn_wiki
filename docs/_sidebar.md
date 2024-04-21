@@ -18,5 +18,5 @@
   - [世界](2_4_WORLDS.md)
   - [插件](2_5_PLUGINS.md)
 
-- [Awesome docsify](awesome.md)
-- [Changelog](changelog.md)
+- 配置World.ini
+  - [什么是World.ini](3_1_What_is_world-ini.md)
