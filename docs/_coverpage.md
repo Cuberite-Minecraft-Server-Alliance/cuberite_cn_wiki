@@ -1,12 +1,11 @@
 ![logo](_media/icon.svg)
 
-# Cuberite Wiki
+# Cuberite中文维基
 
-> A magical documentation site generator.
+> 由Cuberite Minecraft服务器联盟维护的Cuberite中文维基
 
-- Simple and lightweight
-- No statically built html files
-- Multiple themes
+- 基础的Cuberite用户手册中文翻译
+- 更多问题解决方案
 
-[GitHub](https://github.com/docsifyjs/docsify/)
-[Getting Started](#docsify)
+[GitHub](https://github.com/Cuberite-Minecraft-Server-Alliance/cuberite_cn_wiki)
+[Getting Started](#)
