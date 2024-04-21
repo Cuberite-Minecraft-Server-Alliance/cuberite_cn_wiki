@@ -20,3 +20,20 @@
 
 - 配置World.ini
   - [什么是World.ini](3_1_What_is_world-ini.md)
+  - [GENERAL](3_2_General.md)
+  - [BROADCASTING](3_3_Broadcasting.md)
+  - [SPAWNPOSITION](3_4_SpawnPosition.md)
+  - [STORAGE](3_5_Storage.md)
+  - [Physics](3_7_Physics.md)
+  - [Mechanics](3_8_Mechanics.md)
+  - [Monsters](3_9_Monsters.md)
+  - [Weather](3_10_Weather.md)
+  - [Generator](3_11_Generator.md)
+  - [Other](3_12_Other.md)
+  - [Example Configurations](3_13_Example_Configurations.md)
+- 多世界
+  - [多世界概述](4_1_Multiworlds-Overview.md)
+  - [使用命令进行穿越](4_2_Traveling-by-Command.md)
+  - [在没有插件的情况下连接世界](4_3_Linking-Worlds-Without-Plugins.md)
+  - [使用插件连接世界](4_4_Linking-Worlds-with-a-Plugin.md)
+  - [BungeeCord](4_5_BungeeCord.md)
