@@ -1,2 +1,2 @@
-- Translations
-  - [:cn: 简体中文](/zh-cn/)
+- 关于我们
+  - [Cuberite Minecraft服务器联盟官网](#)
