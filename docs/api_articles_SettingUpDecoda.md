@@ -5,7 +5,7 @@
  
 你可以在代码中设置断点、检查变量值、查看 Lua 和本地（C++）调用栈。当执行错误的 Lua 脚本时，Decoda 还会中断程序的执行，提供详细的错误信息并直接指向错误代码。你甚至可以将一个 C++ 调试器附加到一个正在被 Decoda 调试的进程上，这样就可以同时捕获 C++ 和 Lua 错误。
 
-Decoda 是开源软件，源代码在 GitHub 上：https://github.com/unknownworlds/decoda。您可以从创建者的网站 https://unknownworlds.com/decoda/ 下载编译后的二进制文件。
+Decoda 是开源软件，源代码在 GitHub 上：https://github.com/unknownworlds/decoda  您可以从创建者的网站 https://unknownworlds.com/decoda/ 下载编译后的二进制文件。
 
 ## 项目管理
 要开始使用 Decoda，您需要创建一个项目，或加载一个现有项目。Decoda 项目的扩展名是 .deproj，它只是一个要打开的 Lua 文件列表。您可以通过 "项目"->"新建项目 "菜单创建项目。首先保存项目，以便 Decoda 知道文件的相对路径。然后通过菜单 Project -> Add Add New File / Add Existing File 添加现有 Lua 文件或创建新文件。
