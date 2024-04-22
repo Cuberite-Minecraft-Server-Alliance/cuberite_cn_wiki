@@ -196,7 +196,7 @@ RegisterPluginInfoConsoleCommands()
 ```
 当然，如果您的插件没有任何控制台命令，它就不需要调用 RegisterPluginInfoConsoleCommands() 函数，同样，如果它没有任何游戏内命令，它也不需要调用 RegisterPluginInfoCommands() 函数。
 
-示例
+## 示例
 有几个插件已经实现了这种方法。您可以访问它们以获得灵感，并查看生成的文档是什么样子的：
 
 Gallery 插件： [Info.lua](https://github.com/cuberite/gallery/blob/master/Info.lua)、[论坛](https://forum.cuberite.org/thread-1306.html)文档
