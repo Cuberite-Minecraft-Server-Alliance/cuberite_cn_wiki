@@ -37,13 +37,15 @@
   - [在没有插件的情况下连接世界](4_3_Linking-Worlds-Without-Plugins.md)
   - [使用插件连接世界](4_4_Linking-Worlds-with-a-Plugin.md)
   - [BungeeCord](4_5_BungeeCord.md)
+- 跨版本和基岩版互通的实现
+  - [跨版本篇](vag_via.md)
+  - [互通篇](vag_geyser.md)
 - Cuberite API
   - [文章](api_articles.md)
   - [类指数](api_Class-index.md)
   - [钩子](api_Hooks.md)
   - [文档统计](api_Documentation-statistics.md)
-- Cuberite常见问题QA
-  - [有问题？](FAQ_have-question?.md)
+
 - 关于维基
   - [特别鸣谢](wiki_thanks.md)
   - [友情链接](wiki_friends.md)
