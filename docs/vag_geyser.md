@@ -10,6 +10,7 @@ Geyser 是一个允许Minecraft:Bedrock Edition的程序客户端加入Minecraft
 Geyser 是介于 Bedrock 客户端和 Java 服务器之间的翻译器。它从 Bedrock 客户端获取数据，并将其转换成 Java 服务器能理解的格式，反之亦然。Geyser 适用于任何现代 Minecraft 版本，既可以作为插件安装，也可以作为独立程序运行。  
 ## 下载
 首先，到[Geyser的下载页面](https://geysermc.org/download/)  
-然后，点击下载ViaPorxy版本；当然你也可以[点击此处](https://download.geysermc.org/v2/projects/geyser/versions/latest/builds/latest/downloads/viaproxy)通过直链下载  
+然后，点击下载ViaPorxy版本；当然你也可以[点击此处](https://download.geysermc.org/v2/projects/geyser/versions/latest/builds/latest/downloads/viaproxy)通过直链下载
+## 启动
 下载完成后，使用 Ctrl+C键 停止ViaProxy，并将Geyser放入Plugins文件夹，然后重新启动ViaProxy  
 启动完成后，再次停止ViaProxy；然后按需求修改Geyser的配置文件，修改完成后再次启动即可。
