@@ -45,7 +45,3 @@
   - [类指数](api_Class-index.md)
   - [钩子](api_Hooks.md)
   - [文档统计](api_Documentation-statistics.md)
-
-- 关于维基
-  - [特别鸣谢](wiki_thanks.md)
-  - [友情链接](wiki_friends.md)
